@@ -1,0 +1,11 @@
+title = "Elrond config"
+
+[server]
+url = "https://testnet-api.elrond.com"
+asd = "asd"
+
+[savePath]
+path = "/data/privateKey/"
+
+[wallet]
+address = "erd1e5jayxfyjm4p07nfeepvc006swfzywzda7yvvhpwn5sg5rwpq00s7f4hfr"
